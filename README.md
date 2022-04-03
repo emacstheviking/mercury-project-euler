@@ -12,7 +12,9 @@ lately has made me want to return and this time,
  yet. It's on a level with LISP for being a paradigm shifter. I highly advise
  giving it a look.
 
-It waits you here: [MERCURY Home page](https://mercurylang.org/){target="_blank"}
+It waits you here:
+
+[MERCURY Home page](https://mercurylang.org/){target="_blank"}
 
 These sample solutions were built with Mercury 22.01, released 31 March 2022.
 
