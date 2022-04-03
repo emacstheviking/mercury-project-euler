@@ -14,7 +14,7 @@ lately has made me want to return and this time,
 
 It waits you here:
 
-[MERCURY Home page](https://mercurylang.org){target="_blank"}
+[MERCURY Home page](https://mercurylang.org)
 
 These sample solutions were built with Mercury 22.01, released 31 March 2022.
 
