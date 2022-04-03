@@ -8,11 +8,11 @@ lately has made me want to return and this time,
  - not run away
  - use Mercury
 
- What's Mercury... it's the coolest, toughest SOB language you haven't learned
+ What's Mercury? It's the coolest, toughest SOB language you haven't learned
  yet. It's on a level with LISP for being a paradigm shifter. I highly advise
  giving it a look.
 
-It waits you here:
+It awaits you here:
 
 [MERCURY Home page](https://mercurylang.org)
 
